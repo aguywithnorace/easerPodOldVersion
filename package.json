@@ -9,7 +9,7 @@
   "dependencies": {
     "moments": "^0.0.2",
     "react": "16.8.3",
-    "react-native": "0.59.9",
+    "react-native": "0.62.3",
     "react-native-card-stack-swiper": "^1.1.0",
     "react-native-elements": "^1.1.0",
     "react-native-fbsdk": "^0.10.1",
